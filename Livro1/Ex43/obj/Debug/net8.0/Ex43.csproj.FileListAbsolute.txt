@@ -1,0 +1,14 @@
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\Ex43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\Ex43.AssemblyInfoInputs.cache
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\Ex43.AssemblyInfo.cs
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\Ex43.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\bin\Debug\net8.0\Ex43.exe
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\bin\Debug\net8.0\Ex43.deps.json
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\bin\Debug\net8.0\Ex43.runtimeconfig.json
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\bin\Debug\net8.0\Ex43.dll
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\bin\Debug\net8.0\Ex43.pdb
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\Ex43.dll
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\refint\Ex43.dll
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\Ex43.pdb
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\Ex43.genruntimeconfig.cache
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex43\obj\Debug\net8.0\ref\Ex43.dll

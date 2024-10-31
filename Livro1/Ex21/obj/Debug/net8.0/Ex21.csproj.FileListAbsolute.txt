@@ -1,0 +1,14 @@
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\bin\Debug\net8.0\Ex21.exe
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\bin\Debug\net8.0\Ex21.deps.json
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\bin\Debug\net8.0\Ex21.runtimeconfig.json
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\bin\Debug\net8.0\Ex21.dll
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\bin\Debug\net8.0\Ex21.pdb
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\Ex21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\Ex21.AssemblyInfoInputs.cache
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\Ex21.AssemblyInfo.cs
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\Ex21.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\Ex21.dll
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\refint\Ex21.dll
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\Ex21.pdb
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\Ex21.genruntimeconfig.cache
+C:\Users\ortiz\projectos\projectos-dotnet\Logica_de_Programacao_Csharp\Livro1\Ex21\obj\Debug\net8.0\ref\Ex21.dll
